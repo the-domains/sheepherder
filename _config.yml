@@ -1,0 +1,14 @@
+layout_spectrum: 0.40120250126346946
+typography_spectrum: 0.8409930071793497
+color:
+  brandStrength: 0.1268898358102888
+  lightness: 0.8206345532089472
+  saturation: 0.046708970330655575
+  rhythmicContrast: 0.35574818728491664
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Sheepherder
